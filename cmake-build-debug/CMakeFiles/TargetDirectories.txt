@@ -1,6 +1,0 @@
-/Users/apple/Desktop/Damiao_remote/DMA/cmake-build-debug/CMakeFiles/DMA.dir
-/Users/apple/Desktop/Damiao_remote/DMA/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/apple/Desktop/Damiao_remote/DMA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/apple/Desktop/Damiao_remote/DMA/cmake-build-debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
-/Users/apple/Desktop/Damiao_remote/DMA/cmake-build-debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-/Users/apple/Desktop/Damiao_remote/DMA/cmake-build-debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

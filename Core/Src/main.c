@@ -98,7 +98,10 @@ int main(void)
   MX_UART5_Init();
   MX_USART1_UART_Init();
   /* USER CODE BEGIN 2 */
-  HAL_UART_Receive_DMA(&huart5, uart_rx_buffer, 25);
+  for (int i = 0; i <25; i++){uart_rx_buffer [i]=0;}
+  HAL_UART_Receive_DMA(&huart1, uart_rx_buffer, 25);
+  HAL_Delay(9000);
+  int a = 0;
   /* USER CODE END 2 */
 
   /* Infinite loop */
